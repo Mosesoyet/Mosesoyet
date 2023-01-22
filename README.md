@@ -17,6 +17,7 @@ A self motivated full stack software developer! Focused on doing hard things!!
 <img src="https://github.com/Mosesoyet/alx-interview/blob/master/photos/postgre.jfif" width="60" height="60">
 <img src="https://github.com/Mosesoyet/alx-interview/blob/master/photos/react.png" width="60" height="60">
 <img src="https://github.com/Mosesoyet/alx-interview/blob/master/photos/sql.png" width="60" height="60">
+<img src="https://github.com/Mosesoyet/alx-interview/blob/master/photos/kotlin.jpeg" width="60" height="60">
 
 ****A day without tackling a challange is worth nothing!!!!****
 
